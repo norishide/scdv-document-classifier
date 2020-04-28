@@ -56,13 +56,14 @@ def load_log(timestamp, filename, dirpath='../data'):
 # In[33]:
 
 
+import glob
+import os
 import re
-import pandas as pd
-import numpy as np
-import glob, os
-from itertools import count
-from functools import partial
 from itertools import count, filterfalse
+from functools import partial
+
+import numpy as np
+import pandas as pd
 
 
 # In[34]:

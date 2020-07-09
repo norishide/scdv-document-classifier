@@ -1,6 +1,5 @@
-*
-!/data/livedoor_japanese_text
-!/src/*
+livedoor_japanese_text.zip
+/data/*
 
 
 # Byte-compiled / optimized / DLL files
